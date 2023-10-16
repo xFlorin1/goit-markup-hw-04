@@ -119,7 +119,7 @@ ul {
 
 .section-background {
   display: flex;
-  background-image: url(../images/Img.png);
+  background-image:linear-gradient( rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4) ), url(../images/Img.png);
   background-color: #2f303a;
   width: 100%;
   height: 600px;
